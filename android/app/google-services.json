@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "573445031762",
+    "project_id": "walltutorial-2623f",
+    "storage_bucket": "walltutorial-2623f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:573445031762:android:7300e3a19cc139474adc8b",
+        "android_client_info": {
+          "package_name": "com.example.flutter_social_media"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5wq--9bVSbTVZ39Cj42EI1mXtShkLzdg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:573445031762:android:bdbecbdc0fddd2e54adc8b",
+        "android_client_info": {
+          "package_name": "com.example.flutter_wall"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5wq--9bVSbTVZ39Cj42EI1mXtShkLzdg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
